@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SOUMYAKANTA MAHAPATRA</h1>
-<h3 align="center">A passionate code learner from India</h3>
+<h3 align="center">A passionate code learner and learning ethical hacking from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya547&label=Profile%20views&color=0e75b6&style=flat" alt="soumya547" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya547" alt="soumya547" /></a> </p>
 
-- 🌱 I’m currently learning **Django, ReactJS, Kotlin, C#**
+- 🌱 I’m currently learning **Nmap, Burpsuite, Wireshark, Metasploit**
 
 - 📫 How to reach me **manaswininayak616@gmail.com**
 
