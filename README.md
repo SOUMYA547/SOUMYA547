@@ -2,7 +2,7 @@
 <!-- All effects are animated SVG files that sit right next to this README (GitHub strips JS/CSS, so SVG is the way). Keep every file in the same folder. -->
 
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Soumyakanta Mahapatra, Software Engineer and Security Researcher" />
+  <img src="./header.svg" width="100%" alt="Soumyakanta Mahapatra, Software Engineer and Software Security" />
 </p>
 
 <p align="center">
@@ -21,20 +21,20 @@
 
 <p align="center"><img src="./terminal.svg" width="100%" alt="Animated terminal: whoami returns soumyakanta_mahapatra; the doctrine is to learn how systems break, then secure them" /></p>
 
-- 🎓 Computer Science Engineering Student
-- 🔐 Passionate about Cybersecurity & Software Development
-- ⚔️ Learning how systems break → and how to secure them
-- 🚀 Goal: Software Developer + Work in Security Research
+-  Computer Science and Engineering Student
+-  Passionate about Software Security , Cybersecurity & Software Development
+-  Learning how systems break → and how to secure them
+-  Goal: Software Developer + Work in Security Research
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><img src="./h-domains.svg" width="100%" alt="Domains of Conquest" /></p>
+<p align="center"><img src="./h-domains.svg" width="100%" alt="DIGITAL FIELDS" /></p>
 
-<p align="center"><img src="./spellbook.svg" width="100%" alt="Focus areas: Cybersecurity and Ethical Hacking, Software Development and System Designing, Artificial Intelligence and Machine Learning, Frontend and Backend Development" /></p>
+<p align="center"><img src="./spellbook.svg" width="100%" alt="Focus areas: Software Security, Cybersecurity, Ethical Hacking, Software Development and System Designing, Artificial Intelligence and Machine Learning, Frontend and Backend Development" /></p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><img src="./h-arsenal.svg" width="100%" alt="The Arsenal" /></p>
+<p align="center"><img src="./h-arsenal.svg" width="100%" alt="PROGRAMMING LANGUAGES" /></p>
 
 <div align="center">
 
@@ -77,18 +77,16 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/SOUMYA547">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SOUMYA547&langs_count=8&layout=compact&hide_border=false&border_radius=10&bg_color=050a05&title_color=00ff41&text_color=9dffa8&border_color=0f3d0f" alt="Top Languages" />
+  <a href="https://github.com/SOUMYA547">  
   </a>
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><img src="./h-conquest.svg" width="100%" alt="Conquest Report" /></p>
+<p align="center"><img src="./h-conquest.svg" width="100%" alt="MY WORK STATUS" /></p>
 
 <p align="center">
   <a href="https://github.com/SOUMYA547">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SOUMYA547&cache_seconds=7200&layout=compact&show_icons=true&hide_border=false&border_radius=10&bg_color=050a05&title_color=00ff41&text_color=9dffa8&icon_color=00ff41&border_color=0f3d0f" alt="SOUMYA547's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=SOUMYA547&cache_seconds=86400&background=050A05&border=0F3D0F&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=9DFFA8&dates=5FBF6A&stroke=0F3D0F&hide_border=false" alt="SOUMYA547's GitHub Streak" width="49%" />
 </p>
@@ -103,7 +101,7 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><img src="./h-channels.svg" width="100%" alt="Open a Channel" /></p>
+<p align="center"><img src="./h-channels.svg" width="100%" alt="CONTACT INFORMATION" /></p>
 
 <p align="center">
   <a href="https://github.com/SOUMYA547"><img src="./btn-github.svg" width="200" alt="GitHub" /></a>
@@ -123,5 +121,7 @@
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><code>⚔ "LETS GET STARTED BECAUSE I DO NOT FOLLOW DESTINY. I WRITE IT. BECAUSE HELL ANSWERS TO ME" ⚔</code></p>
+
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00ff41,55:052505,100:000000" alt="Footer" />
