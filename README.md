@@ -80,7 +80,6 @@
   <a href="https://github.com/SOUMYA547">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SOUMYA547&langs_count=8&layout=compact&hide_border=false&border_radius=10&bg_color=050a05&title_color=00ff41&text_color=9dffa8&border_color=0f3d0f" alt="Top Languages" />
   </a>
-  <img height="180em" src="https://stats.pphat.top/languages?username=SOUMYA547" alt="Top language" />
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
@@ -123,6 +122,6 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><code>⚔ "I DO NOT FOLLOW DESTINY. I WRITE IT." ⚔</code></p>
+<p align="center"><code>⚔ "LETS GET STARTED BECAUSE I DO NOT FOLLOW DESTINY. I WRITE IT. BECAUSE HELL ANSWERS TO ME" ⚔</code></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00ff41,55:052505,100:000000" alt="Footer" />
