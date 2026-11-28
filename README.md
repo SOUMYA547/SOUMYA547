@@ -21,9 +21,11 @@
 
 <p align="center"><img src="./terminal.svg" width="100%" alt="Animated terminal: whoami returns soumyakanta_mahapatra; the doctrine is to learn how systems break, then secure them" /></p>
 
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
+
 -  Computer Science and Engineering Student
--  Passionate about Software Security , Cybersecurity & Software Development
--  Learning how systems break → and how to secure them
+-  Passionate about Software Security , Cybersecurity, Artificial Intelligence, machine learning, GenAI & Software Development
+-  Learning how Build Software, Design Systems or Systems break  and how to secure them
 -  Goal: Software Developer + Work in Security Research
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
@@ -52,10 +54,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
@@ -92,11 +92,10 @@
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=SOUMYA547&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SOUMYAKANTA MAHAPATRA's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=SOUMYA547&theme=matrix&no-frame=true&no-bg=true&margin-w=2&cache_seconds=86400&hide=reviews&column=7" width="100%" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SOUMYA547&bg_color=050a05&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&radius=10" alt="SOUMYA547's Activity Graph" />
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
